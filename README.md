@@ -6,9 +6,11 @@ O usuário pode criar uma conta, realizar login e gerenciar seus próprios chama
 
 ---
 
+## 📸 Imagem do projeto
+
 ## 📸 Preview
 
-> A imagem de preview da aplicação será adicionada após a publicação do projeto.
+![Sistema de Chamados HelpDesk](https://github.com/MykeMartins96/sistema-chamados-helpdesk/blob/main/client/Captura%20de%20tela%202026-09-08%20213345.png?raw=true)
 
 ---
 
